@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/639/projects/gen2_rfid/trunk/rfid/swig
+END
+rfid_tag_decoder_f.i
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/rfid_tag_decoder_f.i
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/Makefile.in
+END
+rfid_reader_decoder.i
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/rfid_reader_decoder.i
+END
+rfid_reader_f.i
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/rfid_reader_f.i
+END
+rfid_center_ff.i
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/rfid_center_ff.i
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/Makefile.am
+END
+rfid.i
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/rfid.i
+END
+rfid_clock_recovery_zc_ff.i
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/rfid_clock_recovery_zc_ff.i
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/Makefile
+END
+Makefile.swig.gen
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/Makefile.swig.gen
+END
+rfid_command_gate_cc.i
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/swig/rfid_command_gate_cc.i
+END

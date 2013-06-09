@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/825/projects/gen2_rfid/trunk/rfid/apps
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/apps/Makefile.in
+END
+gen2_reader.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/638/projects/gen2_rfid/trunk/rfid/apps/gen2_reader.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/apps/Makefile.am
+END
+gen2_monitor.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/649/projects/gen2_rfid/trunk/rfid/apps/gen2_monitor.py
+END
+WISP_reader.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/825/projects/gen2_rfid/trunk/rfid/apps/WISP_reader.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/apps/Makefile
+END

@@ -1,0 +1,14 @@
+
+This work is based on Gen2 project (www.cgran.org/wiki/Gen2).
+
+This repository extends Gen2 RFID reader and reads EPCs from WISP tags using USRP2.
+
+Tested on:
+ Ubuntu 10.10 (2.6.35-22-generic)
+ GNU Radio 3.6.2
+
+Hardware:
+ gen2_reader: USRP N210, USRP RFX900 daughterboard, Two Alien ALR-8696-C circular polarized antennas.  
+
+-- Questions?
+ Yuanqing Zheng (yuanqing1@ntu.edu.sg)

@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1028/projects/gen2_rfid/trunk/rfid
+END
+README.rfid
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/641/projects/gen2_rfid/trunk/rfid/README.rfid
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/Makefile.in
+END
+Makefile.swig
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/Makefile.swig
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/AUTHORS
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/ChangeLog
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/config.guess
+END
+stamp-h1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/stamp-h1
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/config.h
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/README
+END
+version.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/version.sh
+END
+Makefile.swig.gen.t
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/Makefile.swig.gen.t
+END
+README.hacking
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/README.hacking
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/config.h.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/configure.ac
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/Makefile.common
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/NEWS
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/bootstrap
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/Makefile
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/install-sh
+END
+py-compile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/py-compile
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/grc
+END
+rfid_square2_ff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/grc/rfid_square2_ff.xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/grc/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/grc/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/grc/Makefile
+END
+rfid_square_ff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/627/projects/gen2_rfid/trunk/rfid/grc/rfid_square_ff.xml
+END
