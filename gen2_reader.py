@@ -28,6 +28,10 @@ log_file = open("log_out.log", "a")
 
 class top_block(grc_wxgui.top_block_gui):
 
+    '''
+    Constructor (__init__)
+    Initialises the GUI, sets PHY layer parameters, sets up blocks and connects them into a flow graph
+    '''
 	def __init__(self):
 		grc_wxgui.top_block_gui.__init__(self, title="Grc Wisp Reader")
 		_icon_path = "/usr/share/icons/hicolor/32x32/apps/gnuradio-grc.png"
